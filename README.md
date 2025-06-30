@@ -1,5 +1,5 @@
 ## Huge Thanks
-First of all, huge props and thanks to ![@fuston](https://github.com/fustom) for the original work on his fantastic integration! https://github.com/fustom/ariston-remotethermo-home-assistant-v3
+First of all, huge props and thanks to [@fuston](https://github.com/fustom) for the original work on his fantastic integration! https://github.com/fustom/ariston-remotethermo-home-assistant-v3
 
 This extension is an experiment to support current remotethermo-based devices made by Elco. Once it is mature, I will open a pull-request to the original repository made by fustom.
 
